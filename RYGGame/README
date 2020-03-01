@@ -1,0 +1,9 @@
+Red Yellow Green Game. 
+
+In this game you will be prompted for a guess. 
+This guess will be 3 numbers (0-9), corresponding to 3 positions.
+The program will then tell you the amount of green, yellow and red guesses you have (hence RYG Game).
+Green means you have the correct number in the correct position.
+Yellow mean you have the correct number but out of position.
+Red means incorrect number.
+Goal is to get all green in the least amount of guesses. GO!
