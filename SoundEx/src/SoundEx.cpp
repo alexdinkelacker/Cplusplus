@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : SoundexCode.cpp
+// Name        : SoundEx.cpp
 // Author      : Alex Dinkelacker
 // Project     : Soundex allows you to sort through many historic records quickly,
 //				 such as old census records. The Soundex system is a useful tool in
