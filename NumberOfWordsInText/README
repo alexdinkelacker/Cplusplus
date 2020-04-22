@@ -1,4 +1,4 @@
-Here is an example of a perfect use of the MAP data structure. 
+Here is an example of a perfect use of a map in C++. 
 This data structure is used here to count the amount of words in a given text file. 
 In this specific code, the code will tell you how many occurances of each word you have. 
 This code could be used to determine if a user has used the same word too many times in a text file.
